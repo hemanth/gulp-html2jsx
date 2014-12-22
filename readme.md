@@ -35,6 +35,25 @@ __options:__
 }
 ```
 
+__Sample:__
+
+```html
+<p> Hello </p>
+```
+
+Get converted to:
+
+```js
+var NewComponent = React.createClass({
+  render: function() {
+    return (
+
+      <p> Hello </p>
+    );
+  }
+});
+```
+
 ## License
 
 MIT © [Hemanth.HM](http://h3manth.com)
