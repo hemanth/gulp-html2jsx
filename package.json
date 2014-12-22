@@ -1,0 +1,42 @@
+{
+  "name": "gulp-html2jsx",
+  "version": "0.0.0",
+  "description": "Precompile Facebook html2jsx JSX templates into JavaScript",
+  "license": "MIT",
+  "repository": "hemanth/gulp-html2jsx",
+  "author": {
+    "name": "hemanth",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "html2jsx",
+    "jsx",
+    "transform",
+    "transformer",
+    "template",
+    "templates",
+    "view",
+    "views",
+    "precompile",
+    "compile"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "htmltojsx": "^0.2.0",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
