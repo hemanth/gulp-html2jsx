@@ -1,6 +1,6 @@
 {
   "name": "gulp-html2jsx",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts HTML to JSX for use with React",
   "license": "MIT",
   "repository": "hemanth/gulp-html2jsx",
