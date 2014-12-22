@@ -1,7 +1,7 @@
 {
   "name": "gulp-html2jsx",
   "version": "0.0.0",
-  "description": "Precompile Facebook html2jsx JSX templates into JavaScript",
+  "description": "Converts HTML to JSX for use with React",
   "license": "MIT",
   "repository": "hemanth/gulp-html2jsx",
   "author": {

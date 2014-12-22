@@ -1,6 +1,6 @@
 # gulp-react [![Build Status](https://travis-ci.org/hemanth/gulp-html2jsx.svg?branch=master)](https://travis-ci.org/hemanth/gulp-html2jsx)
 
-> Precompile HTML to JSX using [React](http://facebook.github.io/react/) magic.
+> Converts HTML to JSX for use with React.
 
 ## Install
 
