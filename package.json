@@ -32,11 +32,11 @@
     "compile"
   ],
   "dependencies": {
-    "gulp-util": "^3.0.0",
-    "htmltojsx": "^0.2.0",
-    "through2": "^0.6.1"
+    "gulp-util": "3.0.6",
+    "htmltojsx": "0.2.4",
+    "through2": "0.6.5"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "2.3.3"
   }
 }
